@@ -1,0 +1,16 @@
+.app {
+  padding-top: 100px;
+  max-width: 100%;
+}
+img {
+  margin-top: 50px;
+  margin: 0 auto;
+  display: block;
+}
+p {
+  text-align: center;
+}
+a {
+  display: block;
+  text-align: center;
+}
